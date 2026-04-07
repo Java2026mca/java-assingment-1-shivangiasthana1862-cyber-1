@@ -1,4 +1,3 @@
-package.q04
 import java.util.*;
 public class Main {
     public static boolean isPrime(int num) {
